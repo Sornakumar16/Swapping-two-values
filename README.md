@@ -27,6 +27,9 @@ b=input()
 print("Swapped values are:",b,a)
 
 ```
+## OUTPUT:
+![image](https://github.com/Sornakumar16/Swapping-two-values/assets/138849327/6f7390e1-af9b-48b6-95ff-206a927abd14)
+
 
 
 ## RESULT:
