@@ -18,7 +18,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#developed by:sornakumar s
+#register number:212223230210
 
+a=input()
+b=input()
+print("Swapped values are:",b,a)
+
+```
 
 
 ## RESULT:
