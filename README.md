@@ -19,16 +19,18 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#developed by:sornakumar s
-#register number:212223230210
-
+#Developed by: SORNA KUMAR S
+#Register Number:212223230210
 a=input()
 b=input()
-print("Swapped values are:",b,a)
+c=a;
+a=b;
+b=c;
+print("Swapped values are:",a,b);
 
 ```
 ## OUTPUT:
-![image](https://github.com/Sornakumar16/Swapping-two-values/assets/138849327/6f7390e1-af9b-48b6-95ff-206a927abd14)
+![image](https://github.com/Sornakumar16/Swapping-two-values/assets/138849327/388edc71-a5bb-49db-81ab-622cce713ac0)
 
 
 
